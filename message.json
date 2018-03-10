@@ -1,0 +1,88 @@
+{
+	"mouseover": [
+		{
+			"selector": "input[name=s]",
+			"text": [
+				"找不到想看的就搜索试试吧"
+			]
+		},
+		{
+			"selector": ".index-post-title a",
+			"text": [
+				"要看看《{text}》么？"
+			]
+		},
+		{
+			"selector": "#homeButton",
+			"text": [
+				"回到开始的地方"
+			]
+		},
+		{
+			"selector": "#changeButton",
+			"text": [
+				"喜欢换装 Play 吗？"
+			]
+		},
+		{
+			"selector": "#messageButton",
+			"text": [
+				"猜猜我会说什么？"
+			]
+		},
+		{
+			"selector": "#hideButton",
+			"text": [
+				"已经要说再见了吗"
+			]
+		},
+		{
+			"selector": "textarea#comment",
+			"text": [
+				"认真填写哦~"
+			]
+		},
+		{
+			"selector": ".OwO",
+			"text": [
+				"有许多可爱的表情呢！"
+			]
+		},
+		{
+			"selector": "input[name=author]",
+			"text": [
+				"你叫什么名字呢"
+			]
+		},
+		{
+			"selector": "input[name=mail]",
+			"text": [
+				"留下你的邮箱吧，不然就是无头像人士了。放心会保密的哦"
+			]
+		},
+		{
+			"selector": "input[name=url]",
+			"text": [
+				"你的家在哪里呀，我也想去参观呢"
+			]
+		},
+		{
+			"selector": "#submit",
+			"text": [
+				"检查好了吗~"
+			]
+		}
+	],
+	"click": [
+		{
+			"selector": "#live2d",
+			"text": [
+				"是…是不小心碰到了吧",
+				"萝莉控是什么呀",
+				"你看到我的小熊了吗",
+				"再摸的话我可要报警了！⌇●﹏●⌇",
+				"110吗，这里有个变态一直在摸我(ó﹏ò｡)"
+			]
+		}
+	]
+}
